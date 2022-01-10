@@ -51,7 +51,7 @@
             <p class="mb-4">Or simply leverage the expertise of our consultation
               team.</p>
               <!-- button -->
-            <a href="../index" class="btn btn-primary">Go Home</a>
+            <a href="index" class="btn btn-primary">Go Home</a>
           </div>
         </div>
       </div>
