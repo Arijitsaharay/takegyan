@@ -11,6 +11,7 @@ For Students:
 3. Once the query is raised from the student end, a meeting will be scheduled from the mentor end.
 4. After successful completion of the meeting the student will provide a rating for the mentor and click on "Generate Token".
 5. Provide the token to the mentor for successfully completing the meeting.
+
 For Mentors:
 1. Mentors can create their accounts using the sign-up form.
 2. On successful login, the Mentors will have the dashboard where the queries raised by the Students would be visible.
